@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Avenir';
-    src: url('assets/AvenirLTStd-Roman.otf');
+    src: url('AvenirLTStd-Roman.otf');
 }
 
 html {
@@ -32,7 +32,7 @@ body{
 
 .bg1 {
     position: relative;
-    background-image: url('assets/fo-bg1.jpg');
+    background-image: url('fo-bg1.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
