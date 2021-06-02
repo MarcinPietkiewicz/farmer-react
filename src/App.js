@@ -1,10 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
-class App extends React.Component {
-  render() {
-    return (
+export default function App() {
+
+  return (
     <div className="App">
     <nav>
         <div id="menuToggle">
@@ -23,9 +23,6 @@ class App extends React.Component {
           </ul>
         </div>
       </nav>
-
-
-
 <div className="hero-section">
 <main className="bg1">
     <div id="hero">
@@ -44,5 +41,3 @@ class App extends React.Component {
     </div>
   );
 }
-}
-export default App;
