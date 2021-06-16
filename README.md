@@ -1,10 +1,12 @@
 Live website: www.farmerolaf.com
 
-Features:
+## Features:
 
 1. Multilanguage, responsive design
 
-![desktop](https://i.postimg.cc/wxWRwT4B/farmer1.png) ![mobile](https://i.postimg.cc/6q17qY4Z/farmer2.png)
+Desktop | Mobile
+:--------------------:|:------------:
+![desktop](https://i.postimg.cc/wxWRwT4B/farmer1.png) " | ![mobile](https://i.postimg.cc/6q17qY4Z/farmer2.png)
 
 
 2. multi-language, multi-currency prestashop module
