@@ -1,4 +1,3 @@
-function Title(){
-    
-    return   <div id="hero-title">Farmer Olaf</div>
+function Title() {
+  return <div id="hero-title">Farmer Olaf</div>;
 }

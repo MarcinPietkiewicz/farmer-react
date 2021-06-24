@@ -12,3 +12,6 @@ Desktop | Mobile
 2. multi-language, multi-currency prestashop module
 
 ![prestashop](https://i.postimg.cc/XqvGnTq3/farmer3.png)
+# farmerolaf.com
+
+Repo of a new react-based graphic version of the website
